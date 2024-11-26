@@ -1,8 +1,0 @@
-secrets.json
-secrets.backup.json
-env.json
-release-*-backup/
-node_modules
-.DS_Store
-.idea/sonarlint
-.npmrc
